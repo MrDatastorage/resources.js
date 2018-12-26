@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Nodeschool",
+        "description": "Open source workshops that teach web software skills. Do them on your own or at a workshop nearby.",
+        "type": "Tutorial",
+        "github": "0",
+        "npm": "0",
+        "link": "https://nodeschool.io"
+    },
+    {
+        "title": "Year Progress Twitter bot",
+        "description": "Year Progress Twitter bot using NodeJS.",
+        "type": "Source",
+        "github": "1",
+        "npm": "0",
+        "link": "https://github.com/MrDatastorage/Year-Progress-Twitter-Bot"
+    }
+    ]
