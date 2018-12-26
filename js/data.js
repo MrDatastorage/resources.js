@@ -8,7 +8,6 @@ $.getJSON("../data/resources.json", function (jsonFromFile) {
             { field: "type", title: "Type"},
             { field: "github", title: "On Github", classes:'github'},
             { field: "npm", title: "On NPM", classes:'npm'},
-            { field: "link", title: "URL"}
          ],
     })
 });
