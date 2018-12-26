@@ -14,5 +14,53 @@
         "github": "1",
         "npm": "0",
         "link": "https://github.com/MrDatastorage/Year-Progress-Twitter-Bot"
+    },
+    {
+        "title": "Tutorialspoint",
+        "description": "Node.js is a very powerful JavaScript-based framework/platform built on Google Chrome's JavaScript V8 Engine",
+        "type": "Tutorial",
+        "github": "0",
+        "npm": "0",
+        "link": "http://www.tutorialspoint.com/nodejs/"
+    },
+    {
+        "title": "Node.js 8 the Right Way",
+        "description": "Node.js 8 the Right Way: Practical, Server-Side JavaScript That Scales 1st Edition",
+        "type": "Book",
+        "github": "0",
+        "npm": "0",
+        "link": "https://www.amazon.com/Node-js-Right-Way-Server-Side-JavaScript/dp/168050195X/"
+    },
+    {
+        "title": "Mastering NodeJS",
+        "description": "Mastering Node.js: Expert techniques for building fast servers and scalable, real-time network applications with minimal effort (Community Experience Distilled)",
+        "type": "Book",
+        "github": "0",
+        "npm": "0",
+        "link": "https://www.amazon.com/Mastering-Node-js-Community-Experience-Distilled/dp/1782166327"
+    },
+    {
+        "title": "YouTube Video",
+        "description": "Node.js Tutorial for Beginners: Learn Node in 1 Hour | Mosh",
+        "type": "Video",
+        "github": "0",
+        "npm": "0",
+        "link": "https://www.youtube.com/watch?v=TlB_eWDSMt4"
+    },
+    {
+        "title": "YouTube Video",
+        "description": "Node.js Tutorial For Absolute Beginners",
+        "type": "Video",
+        "github": "0",
+        "npm": "0",
+        "link": "https://www.youtube.com/watch?v=U8XF6AFGqlc"
+    },
+    {
+        "title": "YouTube Video",
+        "description": "Learn Node.js - Full Tutorial for Beginners",
+        "type": "Video",
+        "github": "0",
+        "npm": "0",
+        "link": "https://www.youtube.com/watch?v=RLtyhwFtXQA"
     }
     ]

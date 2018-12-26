@@ -4,11 +4,11 @@ $(document).ready(function(){
         $('#table').bootstrapTable({
             data: json,
             columns: [
-                { field: "title", title: "Title",  sortable: true, classes: true, uniqueId: true},
+                { field: "title", title: "Title"},
                 { field: "description", title: "Description", id: 'description'},
-                { field: "type", title: "Type"},
-                { field: "github", title: "Github", formatter},
-                { field: "npm", title: "NPM", formatter},
+                { field: "type", title: "Type", sortable: true},
+                { field: "github", title: "Github", formatter, sortable: true},
+                { field: "npm", title: "NPM", formatter, sortable: true},
                 { field: "link", title: "URL", formatter},
 
              ]
